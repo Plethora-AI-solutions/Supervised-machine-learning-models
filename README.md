@@ -1,4 +1,4 @@
 #Supervised-machine-learning-models
 
 
-This basic supervised machine learning python notebook builds various classification models with minimal hyper parameter tunning to predict whether a patient(s) has chronic illness. In further python code we will explore more complex classification. 
+This simple supervised machine learning python notebook builds various classification models with various dataset balancing techniques and minimal hyper parameter tunning to predict whether a patient(s) has chronic illness. In future python machine learning implementations, we will explore more complex classification models.
